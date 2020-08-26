@@ -1,0 +1,103 @@
+@media (max-width: 480px) {
+	.topnav a {
+		float: none;
+		font-size: 9px;
+		margin-left: 0px;
+	}
+	.btn-login {
+		margin-right: 5px;
+		padding: 5px 3px;
+	}
+  .bg-img {
+    min-height: 300px;
+  }
+	.header {
+		font-size: 12px;
+	}
+	.search-container {
+		margin-right: 0px;
+	}
+	.search-container button {
+		font-size: 10px;
+	}
+	.txt-search {
+		font-size: 8px;
+	}
+	img {
+		width: 670px;
+	}
+.heading {
+  margin-top: 25px;
+}
+.heading h2 {
+  font-size: 12px;
+}
+.heading h3 {
+  font-size: 10px;
+}
+.txt-contents {
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+.lesson p {
+  font-size: 10px;
+}
+.footer-title {
+  font-size: 12px;
+  }
+.footer-medsos li {
+  float: right;
+   padding: 15px 10px;
+  }
+.footer-medsos a {
+  font-size: 10px;
+  }
+  .fb span{
+  margin-right: 0 auto;
+}
+
+.twit span{
+  margin-right: 0 auto;
+}
+
+.ig span{
+  margin-right: 0 auto;
+}
+.img1 {
+  -webkit-transform: scale(0.08);
+  transform: scale(0.08);
+}
+.img1:hover {
+  -webkit-transform: scale(0.1);
+  transform: scale(0.1);
+}
+.img2 {
+  -webkit-transform: scale(0.08);
+  transform: scale(0.08);
+}
+.img2:hover {
+  -webkit-transform: scale(0.1);
+  transform: scale(0.1);
+}
+.lesson {
+  width: 100%;
+}
+.lesson-icon img {
+  width: 200px;
+}
+
+.footer-container2 a {
+  margin: 10px;
+  margin-top: 300px;
+  padding: 10px;
+}
+.footer-list a {
+  float: left;
+  font-size: 8px;
+ }
+
+.message {
+  padding : 7px 10px;
+  font-size: 8px;
+  box-shadow: 0 3px #666;
+}
